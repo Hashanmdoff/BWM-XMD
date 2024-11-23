@@ -108,7 +108,7 @@
     "NUMERO_OWNER":
     {
       
-    "description":"Enter here the number that is hosting the bot Eg, 254xxxxxxx",   
+    "description" : 94713457207,   
       "value":"",
     "required":true
       
@@ -121,7 +121,7 @@
     "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
   },
     "SESSION_ID":{
-    "description":"put your session ID , the code you received from from ibrahim adams site",   
+    "description":"BWM-XMD;;;H4sIAAAAAAAAA5VVTZOqRhT9K696q/MEQQGrpiqA4geCIgpqKosWGuyRr2kaFV+5yTJVWWSVyuRNZZP/kL81PyHF6NRMJe+9TNjQQPe559577uETSFKcIx2VoPMJZATvIUXVkpYZAh2gFEGACKgDH1IIOmCnrIp1jKYaa+zH+aqfeMJp3Y1EROOu4pqqyDG1tG1uusziFpzrICs2Efa+Aeg2+8dAc93anbBUVk3WsbJ0pTjUOTUm9w6zH9XWW47J15Hj3YJzhQgxwUnYy7YoRgRGOiqnEJP30de1kmwCdYrmw8aWZXb2nW7b8brFy5kQuIfdWMR8eGxjljm8j3451IdHUVnDVbY9liLDtmN+U4jinDg90fVi9r5QA1kJo93wQj/HYYL8oY8Simn57rrHI1XR1ePckRpu1/W7+XSmubGlLGBNGk5t2xpqCjJbntrsvY84LWqziHdOS92Ad45W67l6b9HnnUm7tJabqcPWtEHG7Gzb5d8Sn5IXrez+T90PPZQLw+jIJA5tBvLSisjKMsq92Bxkwogc+xO7oWy08XqRvo8+6yiCp46EOOPWA0YTB1xoRGtdzVr5RF8rNdaWkv6QsMXiDX1IC/ItlntY20hMJNknLcWBWayUHnO/Wrq9wrH5sOuODI0cMcty/IiLl5vFfWkX05ruqPOQT/guqXkLtT1e6YFbmo7uamZhjGX59jmjHSqHPuiw5zogKMQ5JZDiNKneiXwdQH9vI48g+lxdYAx6RplOA0cKaYNvNmRfLshmljcwb/sJ3OTNwaHs6Wqxy29BHWQk9VCeI3+Ac5qS0kB5DkOUg873z42qciYoTikaYR90gMQLLMe3hCYjfJd/PGwhzWGWfUwQBXUQkDQ2EOhQUqA6eN7PsXK7pTQ1TVSlVo9jW5rAKarY5RSmpUqsXCUYX2LOcYxyCuMMdFiBa3ItQWTF8w91kKAjvainyplj6yDAJKeLpMiiFPov0nr5CD0vLRJql4mnVgtEQOfNa0QpTsK8SqxIIPG2eI/UKg/QCWCUo3Md+GiPPVThgRiardN2XVpm4YyOKmd67ebBqgq3TZPLlibDbzimBW+YjcTf8JzH3UiM0LqBHOTaAdcMOIYFVTkug1ud+aqO7lIy3E8yOw1bvaQ4McVx3hTjO3PUt561cBEAIsh/qfIGersim6c7lHwDl9iFtxuJ4r21xH5MZuKo36Mc7jVGhze4F2GBzqdXs1RTv8IzOdFp9ZwZqLpVxfmnGDpN/t96SGC1GTz98efPH54ef/vr6fHhp6fHh89Pjw+/XNe/fnh6fPjx+vB4/fD5+vx7df9QHa84XhtYRfcRhTjKQQeoo/2kFHZqTyf+lqT9vuyFshrK4LXhL+N7mQ9h38DO8SSJghVKXS8bGVrXOIhNrg3ZgSaMDSNLcWnmMmPcfgGkkoQxc6I+Oxvcybv9LAvzxnElKRuCId5up33ScsainO2t7lCYlmWtW1tkdy6z22M3zULNNBYjMs7vxT2RCOZqTtsQDEY93FbRLsJ7G2wZ57HnSlTT742oi9CW7To0tkazZCyMNWJGy8VJKgvlwGfbrWaKzDSTJoP10FyjpZNvyTJpxKew1JQdX7NOWwKZw1KxLsbybGzR9YeCrzN/kWmA0bM/Xzv4X41+HRjmXH8DcTX8r4hSQUKDjzyvEUyY4dTidHuuWCdjatJaTGdHVJ66OhzmdxvZ7IJz5QRZBGmQkhh0AEx8kmIf1EEEcyq/zvyXbKRVB3EpZ5lNIX2xCiBXl2FAcP4bFpZYJ8sIAAA=",   
       "value":"",
      "required":true
   },
